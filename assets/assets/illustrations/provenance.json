@@ -1,0 +1,117 @@
+{
+  "source": "sources/programme_reference.pdf",
+  "source_sha256": "b996ad17da4b8d20426bc70c60bedc956d24a7c7cb9345a88bcdb89f0148cfd3",
+  "method": "Rendu recadré du PDF original, aucune génération ni retouche du contenu",
+  "illustrations": [
+    {
+      "asset": "assets/illustrations/economie.png",
+      "source_page": 17,
+      "pdf_crop_lbrt_points": [
+        0,
+        0,
+        595.276,
+        539.716
+      ],
+      "sha256": "ccdebdcc55549dd7e4327ed15e70b4a24f673634bc46bda5e9e430f7db8109ad"
+    },
+    {
+      "asset": "assets/illustrations/agriculture.png",
+      "source_page": 26,
+      "pdf_crop_lbrt_points": [
+        0,
+        0,
+        595.276,
+        524.049
+      ],
+      "sha256": "2f17dc13e4c8b631aaeb2661d5ef8cbf19bfbc1b9384d3095f947d127aeb7e6d"
+    },
+    {
+      "asset": "assets/illustrations/education.png",
+      "source_page": 36,
+      "pdf_crop_lbrt_points": [
+        0,
+        0,
+        595.276,
+        519.306
+      ],
+      "sha256": "dd19d886bb1f414891f33d232b24ce8b3e61b25148fa980556bc0253636a54b6"
+    },
+    {
+      "asset": "assets/illustrations/adn.png",
+      "source_page": 42,
+      "pdf_crop_lbrt_points": [
+        0,
+        81.17,
+        239.19,
+        577.01
+      ],
+      "sha256": "26d4ad2639b7ed75b53ca7a89e84b2959d1d4bdeef3e0aa3e3cd6f60de305294"
+    },
+    {
+      "asset": "assets/illustrations/sante_numerique.png",
+      "source_page": 44,
+      "pdf_crop_lbrt_points": [
+        0,
+        343.874,
+        332.945,
+        671.396
+      ],
+      "sha256": "bbdab93b8ff6843fc5aadb5ac95e5cf0067d27a377228628fbae2cd20410f133"
+    },
+    {
+      "asset": "assets/illustrations/innovation.png",
+      "source_page": 58,
+      "pdf_crop_lbrt_points": [
+        0,
+        0,
+        595.276,
+        517.852
+      ],
+      "sha256": "06c99aba0fde89799e4a408e9f7da0f53b2af1ff2784c85f0a8b87a4291833e3"
+    },
+    {
+      "asset": "assets/illustrations/institutions.png",
+      "source_page": 9,
+      "pdf_crop_lbrt_points": [
+        53.575,
+        0.0,
+        559.559,
+        381.912
+      ],
+      "sha256": "7817f2995acaa8ac6b44185cb2e6c80c48d59da1c579d4de43fd4a9fe7da1bfb"
+    },
+    {
+      "asset": "assets/illustrations/afrique.png",
+      "source_page": 11,
+      "pdf_crop_lbrt_points": [
+        47.622,
+        30.614,
+        595.276,
+        386.504
+      ],
+      "sha256": "26e40731767d4dddc40f0b6a64dc7c509c2cc6ac2d964653b1cfe60a93b8909a"
+    },
+    {
+      "asset": "assets/illustrations/voyage.png",
+      "source_page": 66,
+      "pdf_crop_lbrt_points": [
+        0.0,
+        84.189,
+        595.276,
+        397.984
+      ],
+      "sha256": "82716af092a77246fbe4c144e257f95eeda38621d54c734c97d6a480e40731fc"
+    },
+    {
+      "asset": "assets/illustrations/motif.png",
+      "source_page": 84,
+      "pdf_crop_lbrt_points": [
+        0.0,
+        71.943,
+        595.276,
+        158.428
+      ],
+      "sha256": "5bdf14e68b38f5201e1d35c9e37725fbeb07ce54d85bd555ad38a831a6726b79"
+    }
+  ]
+}

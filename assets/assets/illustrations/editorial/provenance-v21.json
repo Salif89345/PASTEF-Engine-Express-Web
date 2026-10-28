@@ -1,0 +1,11 @@
+{
+  "method": "Built-in image_gen; compositing",
+  "inputs": [
+    "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\accueil-senegal-v20.png"
+  ],
+  "purpose": "Photomontage décoratif demandé : foule fournie et panorama généré, aucune localisation ou réalisation revendiquée.",
+  "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\accueil-senegal-foule-v21.png",
+  "sha256": "2bf06123047d9146cd0f51aaf361f18a6b0c5a0c7bf0b409f864aa4ee1daec7a",
+  "photo_originale_archivee": "C:\\Dev\\PASTEF_Engine_Express_V1\\sources\\visuels\\foule-fournie-v21.png",
+  "photo_originale_sha256": "311fd2c93ca02e04a6a33822ee540397e90151e344fa182e5e26dd4c4b05f7b6"
+}

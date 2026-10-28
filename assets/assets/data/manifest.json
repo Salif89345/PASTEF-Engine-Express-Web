@@ -1,0 +1,29 @@
+{
+  "version": "senegal2050-4",
+  "source_title": "Sénégal 2050 — SND 2025–2029",
+  "source_sha256": "d9fc7d3f5f7edb7249da5f51ce9052a75b30d34f97b0f943c181df6326885a8b",
+  "sqlite_sha256": "13dbfa8db21336857ad9e6ad6f7b753ebd4d8729856dee86a53aaf0efad29d47",
+  "fiches_sha256": "7fc24ff7feb646d5da4605c4648ce3b44e4c8449a0bf35fe1dc775d5db54ea6d",
+  "extraction_sha256": "489e1a89c94e12fffa1f59ace2d953e365babe72b6284fa0f07e4af99bedfdb9",
+  "nombre_fiches": 114,
+  "nombre_passages": 24,
+  "nombre_resultats": 138,
+  "nombre_pages_sources": 126,
+  "nb_pages_visuelles": 126,
+  "axes_source": 4,
+  "categories_navigation": 6,
+  "documents": [
+    {
+      "id": "snd",
+      "pages": 126,
+      "sha256": "d9fc7d3f5f7edb7249da5f51ce9052a75b30d34f97b0f943c181df6326885a8b"
+    },
+    {
+      "id": "agenda",
+      "pages": 75,
+      "sha256": "78c37be001a0cc4686ea36b0a7ae85f40084a62b00e09d5003d51e4e03c3132a"
+    }
+  ],
+  "nombre_syntheses_deux_sources": 3,
+  "briefs_sha256": "4aa81fe824c64496d92d2d70bef16684e57290ccdf8a1fb0ca1bd13b5569e692"
+}

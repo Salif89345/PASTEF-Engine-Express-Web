@@ -1,0 +1,26 @@
+{
+  "method": "Built-in image_gen",
+  "purpose": "Illustrations décoratives originales, sans valeur de preuve documentaire",
+  "entries": [
+    {
+      "name": "sante",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\sante-v18.png",
+      "sha256": "e5a8042e93add87b2dff200765677f409ea9edf44f02521c73dca2b2a4076d74"
+    },
+    {
+      "name": "agriculture",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\agriculture-v18.png",
+      "sha256": "a89f356631be64e9815f14b7e7c86d193d20aa36ed58aab1e6b99cc8bbbed67d"
+    },
+    {
+      "name": "education",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\education-v18.png",
+      "sha256": "bda36a5c42313f335f065f4fd91e8519fa94c84300125ec166ae5d330032fb1f"
+    },
+    {
+      "name": "emploi",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\emploi-v18.png",
+      "sha256": "6f621051042e7ebaaf8b0eba17a354b487c4aebbe661b9759de1a060d4c3668a"
+    }
+  ]
+}

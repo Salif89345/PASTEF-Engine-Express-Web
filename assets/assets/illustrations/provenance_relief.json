@@ -1,0 +1,20 @@
+{
+  "portrait": {
+    "url": "https://pastef.org/wp-content/uploads/2020/04/Ousmane-SONKO-Pastef-images-15.jpeg",
+    "catalog": "https://pastef.org/wp-json/wp/v2/media?search=sonko&per_page=20",
+    "title": "Ousmane SONKO – Pastef images 15",
+    "consulted_on": "2026-10-13",
+    "sha256": "0d581c0ea7029dc41fea0b70abf6e45462d9d7db4cc18a4343c8fbf48e089328",
+    "treatment": "Photo originale conservée ; cadrage circulaire réalisé par Flutter, aucun portrait généré."
+  },
+  "signature": {
+    "origin": "Nouvelle image jointe par l’utilisateur",
+    "sha256": "93f508944c5bdb2c05ac1e541766b78aa7cc008d5a810de7c53ec7bd02c03ef3"
+  },
+  "portrait_actuel": {
+    "origine": "Photo jointe par l’utilisateur le 14 octobre 2026",
+    "sha256": "c1655a227e6062229934097e341a4abedca8dab8b25e2bb0adb5baccfc954034",
+    "asset": "assets/illustrations/portrait_leader_utilisateur.png",
+    "traitement": "Fichier original conservé ; cadrage uniquement dans Flutter."
+  }
+}

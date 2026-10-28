@@ -1,0 +1,70 @@
+{
+  "generator": "outil intégré image_gen ; aucune API CLI",
+  "source_pdf_sha256": "b996ad17da4b8d20426bc70c60bedc956d24a7c7cb9345a88bcdb89f0148cfd3",
+  "style_reference": "assets/illustrations/voyage.png, document original page 66",
+  "unchanged": [
+    "PDF original",
+    "84 pages sources",
+    "base SQLite",
+    "motif original page 84",
+    "illustration voyage déjà dans le style demandé"
+  ],
+  "assets": [
+    {
+      "asset": "assets/illustrations/design/institutions.png",
+      "original_page": 9,
+      "original_asset": "assets/illustrations/institutions.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "fc4dcfee80ddc89b2484188b399cf0e331d3fd46fd853a64df6bedacdc2b0217"
+    },
+    {
+      "asset": "assets/illustrations/design/afrique.png",
+      "original_page": 11,
+      "original_asset": "assets/illustrations/afrique.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "5aa923a1d49bdc4823ee0332596116ec2a886fbd276bfa9b4c8939b63c9b9e18"
+    },
+    {
+      "asset": "assets/illustrations/design/economie.png",
+      "original_page": 17,
+      "original_asset": "assets/illustrations/economie.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "e8c03e839051f641d39def5ac054c63cd600f207ec8f358961019946b62bbe4b"
+    },
+    {
+      "asset": "assets/illustrations/design/agriculture.png",
+      "original_page": 26,
+      "original_asset": "assets/illustrations/agriculture.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "3010e844dcd9cc90f5f3006b37e295aeb0a48fb2abfbc26dbfb4424214740617"
+    },
+    {
+      "asset": "assets/illustrations/design/education.png",
+      "original_page": 36,
+      "original_asset": "assets/illustrations/education.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "115d161a4a8b97088cdf3137841ab7d511e19551b7ac5f22267bbf69c3bf0160"
+    },
+    {
+      "asset": "assets/illustrations/design/adn.png",
+      "original_page": 42,
+      "original_asset": "assets/illustrations/adn.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "873c8e3051adfc660380d50419455ef19acecacc449f7315d9fbccad6ce825cb"
+    },
+    {
+      "asset": "assets/illustrations/design/sante_numerique.png",
+      "original_page": 44,
+      "original_asset": "assets/illustrations/sante_numerique.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "8bcb46d2006deb8f38f5f53849c7733cad744df21914df20ee13f5fae5d681f1"
+    },
+    {
+      "asset": "assets/illustrations/design/innovation.png",
+      "original_page": 58,
+      "original_asset": "assets/illustrations/innovation.png",
+      "kind": "adaptation graphique illustrative générée, pas un extrait fidèle de la page",
+      "sha256": "8f7a82378c38e189e4b68e78649a39307213699e55ec5ffbbb0653cdcaa9d2f2"
+    }
+  ]
+}

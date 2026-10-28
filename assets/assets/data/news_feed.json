@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "edition": "pilot",
+  "checkedAt": "2026-10-20T22:27:00Z",
+  "articles": [
+    {
+      "id": "vmp-roses-2026", "eventKey": "vmp-roses-octobre-2026", "status": "published",
+      "title": "Dépistage : les VMP Roses visent 3 000 femmes et jeunes filles",
+      "summary": "PASTEF présente une campagne de dépistage des cancers du sein et du col de l’utérus à Saint-Louis, Matam et Louga, du 15 au 24 octobre 2026. Le programme vise 3 000 femmes et jeunes filles. Ce chiffre est un objectif annoncé, pas un bilan de participantes déjà dépistées.",
+      "category": "Santé et solidarité", "symbol": "health", "topics": ["pastef"],
+      "source": "PASTEF · Kàddu Pastef",
+      "sourceUrl": "https://pastef.org/vacances-medicales-patriotiques-vmp-le-don-de-soi-au-service-de-la-sante-des-populations/",
+      "publishedAt": "2026-10-19T11:06:40Z",
+      "eventLabel": "Période annoncée : 15–24 octobre 2026",
+      "attribution": "Résumé de l’article signé Dr Bassirou Diène sur PASTEF.org. Le dispositif et son objectif sont rapportés par le parti ; aucun bilan indépendant n’est présenté ici.",
+      "details": ["Trois départements sont ciblés dans chacune des trois régions. L’article prévoit un accompagnement gratuit vers les examens diagnostiques pour les patientes présentant un résultat suspect, puis un suivi jusqu’aux résultats, selon les possibilités du programme.", "Le texte ne donne pas les lieux et horaires précis des séances. Il faut consulter les organisateurs pour ces informations pratiques."]
+    },
+    {
+      "id": "ecoles-octobre-2026", "eventKey": "solidarite-rentree-2026", "status": "published",
+      "title": "Rentrée scolaire : des actions locales auprès des écoles et des familles",
+      "summary": "Dans son bilan publié le 19 octobre, PASTEF rapporte des cours de vacances, des distributions de fournitures et des travaux de remise en état d’écoles. Ces initiatives ont été menées par des sections locales entre août et octobre 2026, avec des enseignants, artisans et bénévoles.",
+      "category": "Vie du parti", "symbol": "school", "topics": ["pastef"],
+      "source": "PASTEF · Kàddu Pastef",
+      "sourceUrl": "https://pastef.org/rentree-scolaire-les-patriotes-aux-cotes-des-ecoles-et-des-familles/",
+      "publishedAt": "2026-10-19T11:09:01Z", "eventLabel": "Actions rapportées : août–octobre 2026",
+      "attribution": "Résumé de l’article signé Seynabou Diallo. Les actions sont décrites par PASTEF ; elles ne constituent pas un bilan indépendant de l’ensemble des établissements scolaires.",
+      "details": ["L’article cite notamment des cours gratuits à Dakar-Plateau, Ndoffane, Guinaw Rails Sud et Thiès-Ouest. À Ngor, il décrit des réparations de tables-bancs et de l’entretien à l’école Baytir Samb.", "Le parti appelle aussi à soutenir les familles touchées par les inondations, notamment par le nettoyage et la collecte de fournitures. La publication inclut une vidéo de la réception de l’école Baytir Samb."],
+      "videoUrl": "https://www.youtube.com/watch?v=MDINNYPzI1g"
+    },
+    {
+      "id": "fonds-speciaux-octobre-2026", "eventKey": "pastef-controle-fonds-speciaux-2026", "status": "published",
+      "title": "Fonds spéciaux : PASTEF défend un contrôle compatible avec la confidentialité",
+      "summary": "Un article de Kàddu Pastef expose la position du parti sur les fonds spéciaux : protéger les informations sensibles tout en contrôlant les dépenses. Il rappelle une prise de position de Sonko et décrit des propositions de suivi budgétaire. Il ne démontre pas que ces mesures sont déjà entrées en vigueur.",
+      "category": "Position du parti", "symbol": "budget", "topics": ["pastef", "sonko"],
+      "source": "PASTEF · Kàddu Pastef",
+      "sourceUrl": "https://pastef.org/fonds-speciaux-concilier-confidentialite-et-transparence/",
+      "publishedAt": "2026-10-19T11:09:46Z", "eventLabel": "Position de Sonko citée : 16 août 2026 · propositions rapportées : 1er octobre 2026",
+      "attribution": "Résumé de l’analyse signée Rokhaya Gueye sur PASTEF.org. La déclaration de Sonko est rapportée par cet article ; sa publication le 19 octobre ne correspond pas à une nouvelle intervention de Sonko ce jour-là.",
+      "details": ["Le texte présente une identification explicite des fonds dans le budget, des rapports trimestriels et l’audition des ministres. Il insiste sur la confidentialité des opérations sensibles et des bénéficiaires d’aides sociales.", "La publication comprend une vidéo de l’intervention de Maimouna Bousso. Elle ne remplace pas la consultation du texte légal définitif pour déterminer les règles effectivement applicables."],
+      "videoUrl": "https://www.youtube.com/watch?v=-q2Zo9sTuDc"
+    },
+    {
+      "id": "conclave-19-octobre", "eventKey": "conclave-pastef-2026-10-19", "status": "published",
+      "title": "Conclave du 19 octobre : ce qu’annonçait le communiqué du BPN",
+      "summary": "Dans son communiqué du 18 octobre, le Bureau politique national annonçait une rencontre à huis clos au King Fahd Palace le lendemain, de 9 h à 12 h. Elle devait réunir des membres du Bureau politique, des députés, des élus et des responsables du parti sur invitation, avant une déclaration à la presse.",
+      "category": "Communiqué", "symbol": "meeting", "topics": ["pastef"],
+      "source": "PASTEF · Bureau politique",
+      "sourceUrl": "https://pastef.org/document/communique-du-bpn-conclave-du-19-octobre-2026-au-king-fahd-palace/",
+      "publishedAt": "2026-10-18T00:00:00Z", "eventLabel": "Date annoncée : 19 octobre 2026 · événement passé",
+      "attribution": "Résumé du communiqué du BPN daté du 18 octobre. Cette annonce ne permet pas, à elle seule, de confirmer le déroulement de la rencontre ni ses conclusions.",
+      "details": ["Le communiqué rattachait la rencontre à des travaux sur les priorités stratégiques du pays. Il invitait la presse à une déclaration à partir de midi. Les conclusions ne figurent pas dans ce document."]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "outil": "image_gen intégré",
+  "nature": "Illustrations photoréalistes générées, personne et établissement fictifs",
+  "dimensions": "1536 × 1024 ; affichage complet dans 60 × 40",
+  "assets": [
+    {
+      "fichier": "emploi-v24.png",
+      "sha256": "2d92ee165bd011cc044c89f47ddb8615d9cfd8c3d1652a383e48a4b14593bd56"
+    },
+    {
+      "fichier": "sante-v24.png",
+      "sha256": "97af6c86a44797bab7b86537a85481ab9c484e48d272aae18148c626c2037e7a"
+    }
+  ]
+}

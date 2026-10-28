@@ -1,0 +1,293 @@
+{
+  "version": 2,
+  "consulted_on": "2026-10-15",
+  "display_date": "15 octobre 2026",
+  "scope": "Rubrique distincte de la base Sénégal 2050 — SND 2025–2029 de 126 pages. Synthèses hors ligne du site officiel du parti ; positions et bilans attribués à leur auteur, sans vérification indépendante de leur impact.",
+  "cards": [
+    {
+      "id": "naissance",
+      "title": "Naissance",
+      "subtitle": "Les origines du parti",
+      "icon": "history",
+      "paragraphs": [
+        "PASTEF naît en janvier 2014 autour de cadres issus du secteur public, des entreprises, de l’enseignement et des professions libérales. La présentation officielle souligne que beaucoup découvrent alors l’engagement dans un parti.",
+        "Le groupe fondateur se connaît notamment à travers des expériences étudiantes, associatives et syndicales. Le récit du parti relie ces engagements antérieurs à la décision de créer une organisation politique présidée par Ousmane Sonko.",
+        "Son nom complet est Patriotes Africains du Sénégal pour le Travail, l’Éthique et la Fraternité. Le site associe cette dénomination à la souveraineté, à la démocratie, à l’effort collectif et à la solidarité.",
+        "Dans sa présentation, le parti affirme inscrire son action dans le cadre républicain sénégalais et accéder aux responsabilités par des moyens démocratiques. Ces éléments décrivent l’identité qu’il revendique."
+      ],
+      "sources": [
+        {
+          "title": "Présentation du parti",
+          "url": "https://pastef.org/presentation-du-parti-pastef/",
+          "published": "Page non datée"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/presentation-du-parti-pastef/"
+        ],
+        [
+          "https://pastef.org/presentation-du-parti-pastef/"
+        ],
+        [
+          "https://pastef.org/presentation-du-parti-pastef/"
+        ],
+        [
+          "https://pastef.org/presentation-du-parti-pastef/"
+        ]
+      ]
+    },
+    {
+      "id": "ideologie",
+      "title": "Idéologie",
+      "subtitle": "Doctrine et valeurs revendiquées",
+      "icon": "explore",
+      "paragraphs": [
+        "La Charte réaffirmée au congrès de juin 2026 relie souveraineté, coopération africaine, progrès social et démocratie. Elle présente ces orientations comme la continuité d’une doctrine ancienne, adaptée à l’exercice des responsabilités publiques.",
+        "La souveraineté y concerne les décisions économiques, monétaires, culturelles et stratégiques. La production, les connaissances et la maîtrise des ressources sont décrites comme des conditions de cette capacité de décision.",
+        "Sur le plan économique, le texte défend une puissance publique capable de définir une stratégie et une économie tournée vers la production. Il associe cette orientation au travail et à une répartition plus juste du développement.",
+        "La participation citoyenne ne se limite pas au vote dans cette doctrine. Le parti veut aussi former politiquement, organiser la participation et permettre le contrôle de l’action publique."
+      ],
+      "sources": [
+        {
+          "title": "La Charte idéologique de PASTEF",
+          "url": "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/",
+          "published": "14 septembre 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/"
+        ],
+        [
+          "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/"
+        ],
+        [
+          "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/"
+        ],
+        [
+          "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/"
+        ]
+      ]
+    },
+    {
+      "id": "leader",
+      "title": "Leader historique",
+      "subtitle": "Ousmane Sonko\nUn parcours d’engagement",
+      "icon": "person",
+      "paragraphs": [
+        "Ousmane Sonko est né le 15 juillet 1974 à Thiès. Sa biographie officielle situe une partie de son enfance à Sébikotane, puis sa jeunesse en Casamance, avant son arrivée à l’Université Gaston Berger de Saint-Louis en 1993.",
+        "Il obtient une maîtrise de droit public en 1999, puis suit la formation Impôts et Domaines de l’ENA, promotion 1999–2001. Le site mentionne également un DEA en finances publiques et fiscalité à l’UCAD en 2003.",
+        "Sa carrière comprend des fonctions d’inspection, de vérification fiscale et d’audit interne à la DGID. Fondateur du SAID, il en est le premier secrétaire général d’avril 2005 à juin 2012, selon la même biographie.",
+        "Président de PASTEF depuis sa création, il est réélu à cette responsabilité lors du congrès du 6 juin 2026. Le compte rendu publié par le parti rapporte l’unanimité des participants au scrutin."
+      ],
+      "sources": [
+        {
+          "title": "Présentation d’Ousmane Sonko",
+          "url": "https://pastef.org/presentation-de-ousmane-sonko/",
+          "published": "Page non datée"
+        },
+        {
+          "title": "Premier Congrès : organiser la souveraineté",
+          "url": "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/",
+          "published": "18 août 2026 — événement du 6 juin 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/presentation-de-ousmane-sonko/"
+        ],
+        [
+          "https://pastef.org/presentation-de-ousmane-sonko/"
+        ],
+        [
+          "https://pastef.org/presentation-de-ousmane-sonko/"
+        ],
+        [
+          "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/"
+        ]
+      ]
+    },
+    {
+      "id": "evenements",
+      "title": "Événements",
+      "subtitle": "Quelques repères datés",
+      "icon": "event",
+      "paragraphs": [
+        "Le 6 juin 2026, le premier congrès ordinaire se tient à Diamniadio. Le compte rendu fait état de délégations des communes sénégalaises, de sections de la diaspora et d’invités étrangers.",
+        "Cette rencontre réélit Ousmane Sonko et adopte des textes d’orientation. Elle est présentée par le parti comme une étape d’organisation après les succès électoraux de 2024.",
+        "Le 7 octobre 2026, le Bureau politique national annonce la suspension des meetings sur tout le territoire jusqu’au 15 octobre. Le communiqué invoque les inondations, les victimes et les familles sinistrées.",
+        "Ce communiqué appelle également les militants à apporter une assistance aux populations touchées, en lien avec les services de l’État. Il s’agit d’une décision datée ; cette fiche ne remplace pas un agenda actualisé."
+      ],
+      "sources": [
+        {
+          "title": "Premier Congrès : organiser la souveraineté",
+          "url": "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/",
+          "published": "18 août 2026"
+        },
+        {
+          "title": "Suspension des meetings jusqu’au 15 octobre 2026",
+          "url": "https://pastef.org/document/communique-suspension-des-meetings-jusquau-15-octobre-2026/",
+          "published": "7 octobre 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/"
+        ],
+        [
+          "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/"
+        ],
+        [
+          "https://pastef.org/document/communique-suspension-des-meetings-jusquau-15-octobre-2026/"
+        ],
+        [
+          "https://pastef.org/document/communique-suspension-des-meetings-jusquau-15-octobre-2026/"
+        ]
+      ]
+    },
+    {
+      "id": "reussites",
+      "title": "Réussites",
+      "subtitle": "Avancées rapportées par le parti",
+      "icon": "flag",
+      "paragraphs": [
+        "Le parti présente ses victoires électorales de 2024 et la majorité parlementaire comme des étapes de son parcours. Son compte rendu du congrès insiste toutefois sur la différence entre accéder au pouvoir et transformer durablement les institutions.",
+        "Dans un communiqué du 16 septembre 2026, PASTEF salue un arrêté adopté la veille par le Bureau de l’Assemblée nationale pour encadrer les dépenses spéciales. Cette appréciation est celle du parti.",
+        "Le texte décrit des catégories d’aide, des conditions d’accès, des plafonds et des règles de paiement et de contrôle. Il indique que les activités politiques sont exclues du dispositif et que les paiements passent par le Trésorier de l’Assemblée.",
+        "La même publication mentionne la vérification par la Commission de Comptabilité et de Contrôle. Ces règles décrites ne constituent pas, à elles seules, une mesure de leurs effets : les sources citées ne fournissent pas d’évaluation indépendante de leur application."
+      ],
+      "sources": [
+        {
+          "title": "Premier Congrès : organiser la souveraineté",
+          "url": "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/",
+          "published": "18 août 2026"
+        },
+        {
+          "title": "Traçabilité des dépenses spéciales de l’Assemblée nationale",
+          "url": "https://pastef.org/document/tracabilite-et-reglementation-des-depenses-speciales-de-lassemblee-nationale/",
+          "published": "16 septembre 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/"
+        ],
+        [
+          "https://pastef.org/document/tracabilite-et-reglementation-des-depenses-speciales-de-lassemblee-nationale/"
+        ],
+        [
+          "https://pastef.org/document/tracabilite-et-reglementation-des-depenses-speciales-de-lassemblee-nationale/"
+        ],
+        [
+          "https://pastef.org/document/tracabilite-et-reglementation-des-depenses-speciales-de-lassemblee-nationale/"
+        ]
+      ]
+    },
+    {
+      "id": "defis",
+      "title": "Défis",
+      "subtitle": "Des principes à leur mise en œuvre",
+      "icon": "terrain",
+      "paragraphs": [
+        "Le congrès pose la question du passage des succès électoraux à des transformations durables de l’État. Le parti y décrit un risque de perte de cap lorsqu’une organisation ne dispose pas d’une doctrine claire et d’un ancrage social.",
+        "Former politiquement, structurer l’organisation et maintenir les relations avec la société figurent parmi les réponses avancées. Le texte met l’accent sur la durée plutôt que sur le seul résultat d’un scrutin.",
+        "La Charte met aussi les pratiques à l’épreuve des principes : souveraineté, participation démocratique et justice sociale. Elle sert de repère revendiqué pour apprécier la cohérence de l’action.",
+        "L’existence d’une doctrine ne démontre pas sa réalisation. Les documents présentent des orientations et des enjeux ; cette fiche distingue ces ambitions de résultats qui nécessiteraient des indicateurs et une évaluation."
+      ],
+      "sources": [
+        {
+          "title": "Premier Congrès : organiser la souveraineté",
+          "url": "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/",
+          "published": "18 août 2026"
+        },
+        {
+          "title": "La Charte idéologique de PASTEF",
+          "url": "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/",
+          "published": "14 septembre 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/"
+        ],
+        [
+          "https://pastef.org/premier-congres-de-pastef-les-patriotes-organiser-la-souverainete/"
+        ],
+        [
+          "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/"
+        ],
+        [
+          "https://pastef.org/la-charte-ideologique-de-pastef-les-patriotes-une-doctrine-reaffirmee-pour-une-nouvelle-etape/"
+        ]
+      ]
+    },
+    {
+      "id": "combats",
+      "title": "Combats",
+      "subtitle": "Les engagements mis en avant",
+      "icon": "balance",
+      "paragraphs": [
+        "Dans son texte signé le 31 mai 2026, Ousmane Sonko relie corruption, chômage, pauvreté et inégalités à ce qu’il décrit comme une souveraineté incomplète. Il présente la maîtrise des choix nationaux comme le fil conducteur de son engagement.",
+        "Cette lecture concerne les ressources naturelles, les finances publiques, l’agriculture, l’éducation et la culture. Le parti associe ainsi les questions de gouvernance à des choix économiques et sociaux.",
+        "Le même texte rappelle son entrée à l’Assemblée nationale en 2017. Il décrit cette fonction comme une tribune pour défendre la transparence publique, la justice sociale et la maîtrise des ressources.",
+        "Ces engagements sont présentés ici comme des positions de leur auteur. Le récit retrace une démarche politique ; il ne prouve pas, à lui seul, la mise en œuvre ou les effets de chaque orientation."
+      ],
+      "sources": [
+        {
+          "title": "Le mot du président",
+          "url": "https://pastef.org/le-mot-du-president/",
+          "published": "Texte signé à Dakar le 31 mai 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/le-mot-du-president/"
+        ],
+        [
+          "https://pastef.org/le-mot-du-president/"
+        ],
+        [
+          "https://pastef.org/le-mot-du-president/"
+        ],
+        [
+          "https://pastef.org/le-mot-du-president/"
+        ]
+      ]
+    },
+    {
+      "id": "organisation",
+      "title": "Organisation",
+      "subtitle": "Comment le parti se présente",
+      "icon": "groups",
+      "paragraphs": [
+        "Le site distingue plusieurs instances nationales : le Congrès, le Conseil national, le Bureau politique, la présidence et la vice-présidence. Ces noms constituent les premiers repères de l’organisation présentée par PASTEF.",
+        "La liste comprend aussi le secrétariat général et les secrétariats nationaux, le Trésorier national, les mouvements nationaux et le Commissariat scientifique national. Elle montre que la présentation ne se limite pas à la présidence du parti.",
+        "Le site renvoie par ailleurs aux statuts et au règlement intérieur. Ces références sont les points d’accès aux textes officiels ; leurs articles ne sont pas reproduits dans cette fiche.",
+        "Cette synthèse décrit les instances citées au 15 octobre 2026. Elle ne fournit pas un organigramme nominatif complet ni une attribution détaillée des compétences de chacune de ces instances."
+      ],
+      "sources": [
+        {
+          "title": "Site officiel — organisation du parti",
+          "url": "https://pastef.org/",
+          "published": "Page consultée le 15 octobre 2026"
+        }
+      ],
+      "paragraph_sources": [
+        [
+          "https://pastef.org/"
+        ],
+        [
+          "https://pastef.org/"
+        ],
+        [
+          "https://pastef.org/"
+        ],
+        [
+          "https://pastef.org/"
+        ]
+      ]
+    }
+  ],
+  "editorial_style": "Synthèses factuelles attribuées au parti, non citations ; repères datés, doctrine et résultats distingués. Aucune reprise du livre SOLUTIONS. Contenu séparé de l’index du programme."
+}

@@ -1,0 +1,15 @@
+{
+  "outil": "image_gen intégré",
+  "nature": "Détourage génératif de la photo fournie ; original conservé séparément",
+  "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\accueil-leader-detoure-v26.png",
+  "sha256": "125f835cf48de0e1cbb0213a5da0946d5adc5e3d7d2393be22f69c82bd8772c2",
+  "dimensions": [
+    1433,
+    1098
+  ],
+  "transparence": [
+    0,
+    255
+  ],
+  "integration": "Miroir horizontal par Flutter suivant la dernière référence : adulte à droite, enfant à gauche ; tête débordant dans l’en-tête, bords et bas fondus, sans cadre"
+}

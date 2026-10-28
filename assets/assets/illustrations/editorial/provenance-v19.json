@@ -1,0 +1,26 @@
+{
+  "method": "Built-in image_gen",
+  "purpose": "Vues photoréalistes générées de lieux génériques ; aucun établissement réel identifié ni réalisation revendiquée",
+  "entries": [
+    {
+      "name": "sante",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\sante-v19.png",
+      "sha256": "a6253ed467ff97274766e3b743df68834bb44946a18ae73e8e743b18b87a7e66"
+    },
+    {
+      "name": "agriculture",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\agriculture-v19.png",
+      "sha256": "615eb4b09722aa8f5e48e39feb9f8ece6a683b1bc10488dc2b6cede54415157c"
+    },
+    {
+      "name": "education",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\education-v19.png",
+      "sha256": "f8677d105415c220d9d10ac0663d18aae64822ab5cc87cc5eb93a34a13479127"
+    },
+    {
+      "name": "emploi",
+      "asset": "C:\\Dev\\PASTEF_Engine_Express_V1\\assets\\illustrations\\editorial\\emploi-v19.png",
+      "sha256": "38d917abe05a45ff29bdc35ecddaa0c2cb04b13623b1810f9a3f3ec752ff1f8c"
+    }
+  ]
+}

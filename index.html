@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<base href="/PASTEF-Engine-Express-Web/">
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#087b51"><meta name="description" content="PASTEF Engine Express : explorer le programme Sénégal 2050, consulter les documents et apprendre avec le Quiz.">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="PEE">
+<link rel="apple-touch-icon" href="icons/Icon-192.png"><link rel="icon" href="favicon.png">
+<link rel="manifest" href="manifest.json"><title>PASTEF Engine Express</title>
+<style>
+html,body{margin:0;background:#edf8f4;font-family:Arial,sans-serif;color:#104c3a}
+#loading{position:fixed;inset:0;display:grid;place-content:center;text-align:center;padding:28px;background:radial-gradient(ellipse at 20% 20%,#fff,#e5f4ee 65%,#c4e7db)}
+#loading img{width:86px;height:86px;border-radius:24px;margin:auto auto 24px;box-shadow:0 12px 36px #164b3420}
+h1{font-size:clamp(22px,4vw,32px);margin:0 0 10px}p{line-height:1.6;color:#56756a}
+.loader{width:160px;height:4px;background:#cee4da;border-radius:10px;margin:24px auto;overflow:hidden}
+.loader:after{content:'';display:block;background:#087b51;height:100%;width:50%;animation:load 1.2s ease-in-out infinite alternate}
+@keyframes load{to{transform:translateX(100%)}}
+button{border:0;border-radius:24px;padding:12px 22px;background:#087b51;color:white;font:inherit;cursor:pointer}
+@media(prefers-reduced-motion:reduce){.loader:after{animation:none}}
+</style>
+<script src="pee-platform.js"></script>
+</head><body>
+<div id="loading" role="status" aria-live="polite"><img src="icons/Icon-192.png" alt=""><h1>PASTEF Engine Express</h1><p>Le programme, à portée de main.</p><div class="loader"></div><p id="loading-status">Chargement de la base documentaire…<br>La première ouverture peut prendre quelques instants.</p></div>
+<script>
+window.addEventListener('flutter-first-frame',()=>document.getElementById('loading')?.remove());
+setTimeout(()=>{const p=document.getElementById('loading-status');if(p){p.textContent='Le chargement prend plus de temps que prévu. Vérifiez votre connexion.';const b=document.createElement('button');b.textContent='Réessayer';b.onclick=()=>location.reload();p.after(b);}},45000);
+if('serviceWorker' in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('pee-sw.js').catch(()=>{}));
+</script><script src="flutter_bootstrap.js" async></script>
+</body></html>

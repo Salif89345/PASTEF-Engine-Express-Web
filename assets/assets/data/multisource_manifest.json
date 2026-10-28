@@ -1,0 +1,56 @@
+{
+  "schema": "multisource-v1",
+  "sqlite_sha256": "903e1d38c9bdb4da8941d0413e81223c69e62038f9a03bcf5ebe7d7f5ca1f526",
+  "documents": [
+    {
+      "id": "snd",
+      "title": "Sénégal 2050 — Stratégie nationale de Développement 2025–2029",
+      "display_name": "SND 2025–2029",
+      "explanation": "Stratégie nationale de développement — Les actions sur 5 ans",
+      "color": "#13845C",
+      "source_order": 1,
+      "page_count": 135,
+      "sha256": "f2ccf477a28bd53e36cb44f51f7376fd3316176bc503025b9035200e42def278",
+      "original_url": "https://www.economie.gouv.sn/sites/default/files/2025-04/snd.pdf"
+    },
+    {
+      "id": "masterplan",
+      "title": "Agenda national de transformation — Masterplan 2025–2034",
+      "display_name": "Masterplan 2025–2034",
+      "explanation": "La feuille de route sur 10 ans",
+      "color": "#1768B3",
+      "source_order": 2,
+      "page_count": 130,
+      "sha256": "023029ea79c3d8461811afb174cdd9a136e013d00bb122280ede1df4f7b01627",
+      "original_url": "https://bo-admin.presidence.sn/storage/documents/5md5fMAh2Ti99EfAqRNMpLQwxCkKKJN94r8n9fDN.pdf"
+    },
+    {
+      "id": "vision",
+      "title": "Sénégal 2050 — Agenda national de transformation",
+      "display_name": "Vision Sénégal 2050",
+      "explanation": "La vision à long terme",
+      "color": "#BC383E",
+      "source_order": 3,
+      "page_count": 75,
+      "sha256": "78c37be001a0cc4686ea36b0a7ae85f40084a62b00e09d5003d51e4e03c3132a",
+      "original_url": "https://apimfb.finances.gouv.sn/files/minfin/4-0-2026/vision-senegal2050-agenda-national-de-transformation_0et8eguot7pvkcafty19y.pdf"
+    }
+  ],
+  "coverage": {
+    "snd": {
+      "pdf_pages": 135,
+      "extracts": 394
+    },
+    "masterplan": {
+      "pdf_pages": 130,
+      "extracts": 732
+    },
+    "vision": {
+      "pdf_pages": 75,
+      "extracts": 283
+    }
+  },
+  "total_entries": 1422,
+  "reviewed_summaries": 13,
+  "legacy_quiz_sources_preserved": true
+}
