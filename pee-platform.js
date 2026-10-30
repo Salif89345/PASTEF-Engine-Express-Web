@@ -111,7 +111,7 @@
         const status=document.createElement('div');
         Object.assign(status.style,{position:'fixed',bottom:'14px',left:'50%',transform:'translateX(-50%)',background:'#0b513b',color:'white',padding:'16px 24px',borderRadius:'24px',zIndex:'999999',fontFamily:'Arial',maxWidth:'85vw'});
         document.body.append(status);
-        const cache=await caches.open('pee-content-faccd0baf888');let count=0;
+        const cache=await caches.open('pee-content-eda90387f632');let count=0;
         try {
           for(const file of manifest.files){status.textContent='Documents hors ligne : '+Math.round(100*count/manifest.files.length)+' %';if(!await cache.match(file)){const response=await fetch(file);if(!response.ok)throw Error('Téléchargement incomplet. Réessayez avec une connexion stable.');await cache.put(file,response);}count++;}
           alert('Les documents sont enregistrés sur cet appareil.');return null;
